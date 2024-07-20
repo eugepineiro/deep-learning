@@ -1,0 +1,24 @@
+Contenidos:
+Unidad 1: Introducción a Transformers
+Introducción al concepto de Gen AI, LLMs y Transformers. Historia. Arquitectura. Mecanismo de Atención. Embeddings y Positional Encoding. Aplicaciones en la industria.
+
+Unidad 2: Algoritmos de Embedding y Positional Encoding
+Algoritmos de Embedding y Positional Encoding. Transformer basando en N-grama
+
+Unidad 3: Fine Tuning
+Reinforcement Learning. RLHF y sus security issues. Fine tuning. Pipeline productivo. 
+
+Unidad 4: Responsible AI
+Consideraciones éticas en AI: biases en training data, fairness, impacto social, detección de contenido generado de forma artificial. Narrow AI vs. AGI. AGI como agente. Foundation models. Emergent capabilities. Security vulnerabilities. Interpretability. Alignment.
+
+Unidad 5: Retrieval Augmented Generation (RAG)
+Introducción Retrieval Augmented Generation. Bases de datos vectoriales: Chroma DB y Pinecone, uso de embeddings y eficiencia.
+
+Unidad 6: Implementación de Transformer
+Frameworks y librerías para implementar un Transformer en Python: Hugging Face, OpenAI API, Pytorch, Tensorflow, Langchain. 
+ 
+Unidad 7: Aplicaciones y Evaluación de Resultados.
+Aplicaciones a distintos tipos de datos: texto, imágenes y señales de audio. Métricas de la industria 
+
+Unidad 8: Ecosistema Empresarial
+Empresas líderes y su visión a largo plazo. Roles en la industria. Intersección entre ingeniería e investigación. Casos de estudio.

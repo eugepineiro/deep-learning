@@ -1,0 +1,29 @@
+Denominación de la materia: Temas Avanzados de Deep Learning
+
+
+
+Docente responsable de la materia:  Eugenia Piñeiro
+
+Equipo docente: Marina Fuster y Eugenia Piñeiro
+
+Carga horaria total: 24 horas
+
+Presentación de la materia:
+Esta materia se enfoca en dos aspectos cruciales de la temática modelos de lenguaje. Por un lado, busca profundizar en el aspecto técnico de los mismos, construyendo sobre los pasos anteriores que llevan hasta su reciente desarrollo. 
+Por otro lado, se tiene como objetivo entender el estado del arte y los desafíos teórico-prácticos que se encuentran abiertos en la actualidad. 
+
+Objetivos de aprendizaje:
+Exponer a los alumnos a las generalidades del funcionamiento de la red neuronal Transformer.
+Entender las particularidades y desafíos de los distintos procesos involucrados en el armado y el entrenamiento de un modelo de lenguaje.
+Entender las diferentes áreas en las cuales se basa el campo de modelos de lenguaje.
+Tener conocimiento del estado del arte y, en particular, de los desafíos éticos y de seguridad que conciernen a los modelos de lenguaje.
+Comprender las aplicaciones en la industria y su implementación.
+Trabajo práctico y teórico para consolidar conocimientos e introducirse en la temática.
+
+Modalidad de evaluación de la materia:
+La cursada se aprobará con el promedio de 2 trabajos prácticos grupales:
+Desarrollo de un Transformer aplicando los conocimientos vistos en la materia.
+Evaluación de un paper relacionado con los temas vistos en la materia y su exposición oral. 
+
+Requisitos de aprobación:
+Los estudiantes deberán poseer una asistencia no inferior al 75% en las clases.  Para aprobar la cursada y obtener la condición de regular se deben aprobar los trabajos prácticos con una nota igual o superior a cuatro (4) puntos. 
